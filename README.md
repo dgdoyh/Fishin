@@ -1,11 +1,14 @@
 # Fishin
 
 ## Description
-- 3D Top-Down Fishing Game
+- Genre: 3D Top-Down Fishing Game
+- Tools: Unreal Engine 5, Blueprints
+- Project Type: Team project with 2 members (@dgdoyh, @Hariiiy)
+- Status: Completed
+- Fish, sell, upgrade your fishing rod, and discover a secret in the game!
+- Hint: Combine the upper case letter in the description in order of length of each fish.
 - Submitted to Game Off 2024 (https://itch.io/jam/game-off-2024/rate/3147780)
 - You can download and play the game using the link above. (Log-in might be required)
-- Fish, sell, upgrade your fishing rod, and discover a secret in the game.
-- Hint: Combine the upper case letter in the description in order of length of each fish
 
 <br/>
 
